@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m a fresher in DevOps.
+ 🔭 I’m a fresher in **DevOps**.
  
  🌱 I’m completed **AWS,Git & Github, Docker, Jenkins, Linux, Python, Kubernetes**
 
