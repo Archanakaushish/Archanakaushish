@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m a fresher
+ 🔭 I’m a fresher in DevOps.
  
- 🌱 I’m currently learning **AWS, Docker, Jenkins, Linux, Python, Kubernetes**
+ 🌱 I’m completed **AWS,Git & Github, Docker, Jenkins, Linux, Python, Kubernetes**
 
-💬 Ask me about **AWS, Docker, Jenkins, Linux, Python, Kubernetes**
+💬 Ask me about **AWS,Git & Github, Docker, Jenkins, Linux, Python, Kubernetes**
 
 ⚡ Fun fact **I'm funny.**
 
@@ -24,7 +24,7 @@
   <a href="mailto:archanakaushish@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/archanakaushish" target="_blank">
+  <a href="https://www.linkedin.com/in/archana-kaushish-devops-engineer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://archanakaushish.github.io/My_Portfolio/" target="_blank">
