@@ -12,7 +12,7 @@
  
  🔭 I’m a fresher in **DevOps**.
  
- 🌱 I’m completed **AWS,Git & Github, Docker, Jenkins, Linux, Python, Kubernetes**
+ 🌱 I have completed **AWS,Git & Github, Docker, Jenkins, Linux, Python, Kubernetes**
 
 💬 Ask me about **AWS,Git & Github, Docker, Jenkins, Linux, Python, Kubernetes**
 
